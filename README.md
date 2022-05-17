@@ -1,7 +1,7 @@
 👋 Hi, I’m @AustinShutt <br><br>
 👀 I’m interested in ... <br>
 * C/C++, C# Development
-* Game Programming <br><br>🌱 I’m currently learning ... <br>
+* High Performance Applications <br><br>🌱 I’m currently learning ... <br>
 * .NET MAUI
 * Test Driven Development
 * Continuous Delivery Model
