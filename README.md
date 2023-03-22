@@ -2,7 +2,6 @@
 👀 I’m interested in ... <br>
 * C/C++, C# Development
 * High Performance Applications <br><br>🌱 I’m currently learning ... <br>
-* .NET MAUI
 * Test Driven Development
 * Continuous Delivery Model
 * Data Oriented Programming
